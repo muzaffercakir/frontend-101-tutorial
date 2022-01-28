@@ -1,0 +1,76 @@
+
+header h1 {
+    color: #B8405E;
+    text-align: center;
+}
+
+.h2-style {
+    color: #655D8A;
+    text-align: center;
+}
+
+.h3-style {
+    color: #B3541E;
+    padding-left: 1em;
+
+}
+
+.about-section p {
+    padding-left: 1em;
+}
+
+.categories {
+    display: table;
+    margin: auto;
+    list-style:circle;
+    
+}
+
+.ul-style {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 25em;
+    
+    overflow: hidden;
+    background-color: #142F43;
+     
+  }
+  
+ .ul-style li {
+    float: left;  
+   
+ } 
+  
+.ul-style li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    
+}
+  
+  li a:hover {
+    background-color: #B8405E;
+}
+
+.product-list {
+    display: table;
+    margin: auto;
+    padding-left: 5em;
+    
+}
+
+.product-list li {
+    margin-bottom: 3em;
+    padding-left: 2em;
+
+}
+
+
+
+footer {
+    margin-top: 9em;
+    text-align: center;
+    font-style: italic;
+}
