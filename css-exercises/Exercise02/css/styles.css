@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.search-bar {
+    
+    background-color: #eee;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0.1em 4em;
+    padding: 0.2em; 
+
+}
+#gsearch {
+    padding: 0.1em 5em;
+    
+}
+
+.buttons input {
+    margin-left: 50%;
+}
+
+.link-bar {
+    display: flex;
+    flex-direction: row;
+    margin: 0.1em 4em;
+    align-items: stretch;
+    justify-content: space-between;   
+      
+}
+
+.link-bar div {
+    padding: 1px;
+    
+}
+
+.first-col {
+    background-color: #7EE5DA;
+    text-align: center;
+    flex-grow: 2;
+    margin-right: 0.1em;   
+}
+
+.second-col {
+    background-color: #70CCC2;
+    text-align: center;
+    
+    flex-grow: 1;
+    margin-right: 0.1em;
+    font-size: 0.9em;
+    
+}
+
+.second-col div{
+    text-align: center;
+}
+
+.third-col {
+    background-color: #62B3AA;
+    text-align: center;
+    flex-grow: 2;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+
+.sp-search {
+    margin-top: 0.5em;
+}
+.under-mailbar a{
+    margin-left: 0.5em;
+}
+
+.pos {
+    position: absolute;
+    display: flex;
+    margin-left: 3em;  
+    flex-direction: row;
+    
+}
+
