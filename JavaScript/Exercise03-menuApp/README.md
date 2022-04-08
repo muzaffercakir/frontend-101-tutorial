@@ -1,4 +1,4 @@
-### Patika.dev JavaScript Course - Exercise03 / menuApp
+## Patika.dev JavaScript Course - Exercise03 / menuApp
 
 
 A menu app I made using JavaScript that filters Asian foods by country.
